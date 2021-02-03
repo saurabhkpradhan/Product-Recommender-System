@@ -1,0 +1,2 @@
+# Product-Recommender-System
+Online stores like Amazon, Flipkart have millions of products available in their catalogues. Deciding the right product becomes tricky, because of this "Information overload". Users get confused, and this puts a cognitive overload on the user in choosing a product. E-commerce companies use different recommendation systems to provide suggestions to customers to help them choose the right product. Amazon currently uses collaborative filtering, which scales to massive data sets and produces high-quality recommendations in real-time.
